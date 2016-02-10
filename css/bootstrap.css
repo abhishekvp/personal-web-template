@@ -4060,6 +4060,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   left: auto;
 }
 @media (min-width: 768px) {
+  body {
+  overflow:hidden;
+}
   .nav-tabs.nav-justified > li {
     display: table-cell;
     width: 1%;
